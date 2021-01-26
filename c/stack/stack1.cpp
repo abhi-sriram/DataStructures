@@ -1,3 +1,5 @@
+// Stack program using without functions and without pointers
+
 #include<stdio.h>
 
 struct Stack {
