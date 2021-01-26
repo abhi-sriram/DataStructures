@@ -1,3 +1,5 @@
+// Stack program using without functions and with pointers
+
 #include<stdio.h>
 #include<stdlib.h>
 
